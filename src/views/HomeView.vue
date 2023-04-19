@@ -81,6 +81,7 @@ export default {
   margin: 0 auto;
 }
 .home {
+  min-height: 90vh;
   .head {
     .info {
       .avatar {

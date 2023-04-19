@@ -36,11 +36,6 @@ html {
   font-size: 14px;
   color: #6c7789;
   justify-content: center;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
   a {
     font-size: 14px;
     color: #2a7eed;
